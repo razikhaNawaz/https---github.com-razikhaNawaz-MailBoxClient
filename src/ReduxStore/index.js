@@ -4,7 +4,7 @@ import InboxReducer from "./InboxReducer";
 import SentBoxReducer from "./SentBoxReducer";
 
 
-
+//reducer
 
 const store=configureStore({
     reducer:{
